@@ -35,10 +35,10 @@ outline: none;
   .intro{
   background: url("/hw4-2023/images/header.jpg"), #858585; 
   min-height: 400px;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat: initial;
+  background-size: auto;
   }
 
 
