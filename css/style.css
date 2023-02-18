@@ -33,9 +33,9 @@ outline: none;
 
   /* Requirement 4 code here -- Do not remove this comment. */
   
-.intro{
+header{
   background: url("/hw4-2023/images/header.jpg"), #858585; 
-  height: 400px;
+  min-height: 400px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
