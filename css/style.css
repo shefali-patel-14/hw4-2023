@@ -35,11 +35,11 @@ outline: none;
   
 .intro{
   background: url("/images/header.jpg"), #858585; 
+  height: 400px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 400px;
   }
 
 
