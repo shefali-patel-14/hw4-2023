@@ -39,7 +39,7 @@ outline: none;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 400px;
+  height: 400px;
   }
 
 
@@ -84,8 +84,7 @@ outline: none;
 
   /* Requirement 9 code here -- Do not remove this comment. */
 .about, .clients, .method, .contact{
-display: block;
-margin: auto;
+align-self: center;
 max-height: 40vh;
 overflow: scroll;
 }
