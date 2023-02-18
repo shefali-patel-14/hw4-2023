@@ -33,7 +33,7 @@ outline: none;
 
   /* Requirement 4 code here -- Do not remove this comment. */
   header{
-  background: url("/images/header.jpg"), #858585; 
+  background: url("/hw4-2023/images/header.jpg"), #858585; 
   min-height: 400px;
   background-attachment: fixed;
   background-position: center;
